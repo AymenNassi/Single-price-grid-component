@@ -4,12 +4,14 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./design/screenshot-1.png)
+
+                           ![](./design/screenshot-2.png)
 
 ### Links
 
-- [solution](https://your-solution-url.com)
-- [live site](https://your-live-site-url.com)
+- [solution](https://aymennassi.github.io/Single-price-grid-component/)
+- [live site](https://www.frontendmentor.io/solutions/singlepricegridcomponent-Nvr6XKUl4Y)
 
 ## My process
 
